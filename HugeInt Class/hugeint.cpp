@@ -91,7 +91,7 @@ HugeInt HugeInt :: operator = (const HugeInt & arg) {
 }
 
 // implementation of vector sum function.
-uint_vector add_vector(const uint_vector & a, const uint_vector & b){
+uint_vector HugeInt :: add_vector(const uint_vector & a, const uint_vector & b) const{
 
     unsigned int cerry = 0;
     uint_vector v1 = a;
