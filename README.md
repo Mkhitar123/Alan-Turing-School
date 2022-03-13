@@ -1,2 +1,2 @@
 # Alan-Turing-School
-repo for school project.  
+repo for school projects.  
