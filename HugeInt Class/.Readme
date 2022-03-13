@@ -1,2 +1,3 @@
-Huge integer class writen by C++ for positiv numbers.
-There is defined + * and =  operators two constructor.
+Huge integer class writen with C++ for positiv numbers.
+There is defined +, *, and =,  operators and two constructor,
+also project has GNU make file.  
