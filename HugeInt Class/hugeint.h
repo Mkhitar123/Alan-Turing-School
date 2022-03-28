@@ -10,7 +10,7 @@ public:
 
      HugeInt(std::string value);
      HugeInt(int value);
-     void print_hint(); // added print method for dis class
+     void print_hint(); // added print method for this class
      HugeInt operator + (const HugeInt & arg) const;
      HugeInt operator * (const HugeInt & arg) const; 
      HugeInt operator = (const HugeInt & arg);  // added = operator 
