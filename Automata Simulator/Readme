@@ -1,0 +1,23 @@
+This is a Automata simulator.
+In first step you need write configuration for your automata into conf.txt file.
+Then build programm  using <make build> comman and run <make run>
+
+For example in conf.txt you can fill this Automata configuration.
+
+00, 01, 10, 11
+0, 1
+q0, q1
+
+0,q0 | 1,q0 | 1,q0 | 0,q1 |
+1,q0 | 0,q1 | 0,q1 | 1,q1 |
+
+11, 00, 10, 11
+
+
+Which add two binary a and b numbers, where numbers are given binary pairs. 
+a = a1 a2 a3 ... an
+b = b1 b2 b3 ... bn
+
+input (a1 b1), (a2 b2), (a3 b3), ... , (an bn)
+
+in this example Automata input is  11, 00, 10, 11
