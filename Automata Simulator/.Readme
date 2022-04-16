@@ -1,6 +1,6 @@
 This is a Automata simulator.
-In first step you need write configuration for your automata into conf.txt file.
-Then build programm  using <make build> comman and run <make run>
+In first step you need to write configuration for your automata into conf.txt file.
+Then build programm  using <make build> command and run <make run>
 
 For example in conf.txt you can fill this Automata configuration.
 
