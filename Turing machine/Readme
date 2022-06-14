@@ -1,1 +1,2 @@
-
+Turing machine simulator that reads the configuration from a file and works on the given tape.
+The machine also have a Debug mode of operation, each step display the contents of the tape.
